@@ -1,4 +1,4 @@
-# TextGen-Challenge
+# TextGen-Challenge Part I
 ## 2 Starter Note Books
 
 + **Automate Data Collection (Completing Process):** [https://github.com/kevin11h/TextGen-Challenge/blob/master/Automate%20Collection%20for%20YouTube%20Transcript%20Text%20Training%20Data.ipynb](https://github.com/kevin11h/TextGen-Challenge/blob/master/Automate%20Collection%20for%20YouTube%20Transcript%20Text%20Training%20Data.ipynb)
